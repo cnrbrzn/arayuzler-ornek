@@ -1,0 +1,15 @@
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.exe
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.deps.json
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.runtimeconfig.json
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.dll
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\bin\Debug\net6.0\arayuzler-ornek.pdb
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.csproj.AssemblyReference.cache
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.AssemblyInfoInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.AssemblyInfo.cs
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.dll
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\refint\arayuzler-ornek.dll
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.pdb
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\arayuzler-ornek.genruntimeconfig.cache
+C:\Users\cborazan\source\repos\Pratikler\arayuzler-ornek\obj\Debug\net6.0\ref\arayuzler-ornek.dll
